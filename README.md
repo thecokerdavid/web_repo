@@ -1,3 +1,3 @@
 # coker_web_portfolio
 
-Build with &#hearts; and HTML lol
+Build with :purple_heart: and HTML lol
